@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fantasy Project</string>
+    <string name="version_name_holder">Version 1.0</string>
+    <string name="edittext_hint">Enter your config here</string>
+    <string name="toast_warning_pref_proxysharing_short" translatable="false">Allow connections from the LAN, Make sure you are in a trusted network</string>
+    <string name="connection_test_available" translatable="false">Success: HTTP connection took %d ms</string>
+    <string name="connection_test_error" translatable="false">Fail to detect internet connection: %s</string>
+    <string name="notification_action_stop_v2ray">Stop</string>
+    <string name="toast_none_data" translatable="false">There is nothing</string>
+    <string name="toast_incorrect_protocol" translatable="false">Incorrect protocol</string>
+    <string name="toast_decoding_failed" translatable="false">Decoding failed</string>
+    <string name="connection_test_fail">Internet Unavailable</string>
+    <string name="connection_test_error_status_code" translatable="false">Error code: #%d</string>
+    <string name="connection_connected" translatable="false">Connected, tap to check connection</string>
+    <string name="connection_not_connected">Not connected</string>
+    <string name="title_pref_per_app_proxy" translatable="false">Per-app proxy</string>
+    <string name="app_tile_first_use" translatable="false">First use of this feature, please use the app to add server</string>
+    <string name="filter_config_all">All subscription groups</string>
+    <string name="server_lab_remarks">remarks\n</string>
+    <string name="title_filter_config">Filter configuration file</string>
+    <string name="tasker_setting_confirm">Confirm</string>
+    <string name="title_del_duplicate_config_count">Delete %d duplicate configurations</string>
+    <string name="toast_services_success">Start Services Success</string>
+    <string name="toast_services_failure">Start Services Failure</string>
+    <string name="toast_success">Success</string>
+    <string name="toast_failure">Failure</string>
+    <string name="toast_services_start">Start Services</string>
+</resources>
